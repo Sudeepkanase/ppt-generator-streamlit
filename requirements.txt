@@ -2,6 +2,4 @@ streamlit==1.29.0
 groq==0.4.1
 python-pptx==0.6.21
 requests==2.31.0
-Pillow==9.5.0
-lxml==4.9.3
-XlsxWriter==3.1.9
+Pillow==9.4.0
